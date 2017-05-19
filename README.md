@@ -41,11 +41,58 @@ Usage:
 `[voltaire]Testing Voltaire Font[/voltaire]`
 
 
+Version 0.1.4 additions:
+
+`[Roboto]Testing Roboto Font[/Roboto]`
+
+`[robotoslab]Testing Roboto Slab Font[/robotoslab]`
+
+`[khula]Testing Khula Font[/khula]`
+
+`[barrio]Testing Barrio Font[/barrio]`
+
+`[montserratsubrayada]Testing Montserrat Subrayada Font[/montserratsubrayada]`
+
+`[raleway]Testing Raleway Font[/raleway]`
+
+`[raviprakash]Testing Ravi Prakash Font[/raviprakash]`
+
+`[Lora]Testing Lora Font[/Lora]`
+
+`[droidsans]Testing Droid Sans Font[/droidsans]`
+
+`[Ubuntu]Testing Ubuntu Font[/Ubuntu]`
+
+`[droidserif]Testing Droid Serif Font[/droidserif]`
+
+`[baloo]Testing Baloo Font[/baloo]`
+
+`[ptserif]Testing PT Serif Font[/ptserif]`
+
+`[indieflower]Testing Indie Flower Font[/indieflower]`
+
+`[dosis]Testing Dosis Font[/dosis]`
+
+`[oxygen]Testing Oxygen Font[/oxygen]`
+
+`[anton]Testing Anton Font[/anton]`
+
+`[cabin]Testing Cabin Font[/cabin]`
+
+`[arvo]Testing Arvo Font[/arvo]`
+
+`[lobster]Testing Lobster Font[/lobster]`
+
+`[pacifico]Testing Pacifico Font[/pacifico]`
 
 
 Examples:
 
 ![Imgur](http://i.imgur.com/soC2Dqh.png)
+
+Version 0.1.4 addition examples:
+![Imgur](http://i.imgur.com/hc101Hc.png)
+
 
 
 

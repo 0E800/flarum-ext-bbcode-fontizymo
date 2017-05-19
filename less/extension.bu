@@ -1,4 +1,18 @@
-@import '//fonts.googleapis.com/css?family=Aclonica|Aldrich|Anonymous+Pro|Bowlby+One|Cagliostro|Open+Sans|Orbitron|Oswald|Philosopher|Quattrocento+Sans|Quicksand|Satisfy|Syncopate|Ubuntu+Mono|Voltaire';
+@import '//fonts.googleapis.com/css?family=Aclonica';
+@import '//fonts.googleapis.com/css?family=Aldrich';
+@import '//fonts.googleapis.com/css?family=Anonymous+Pro';
+@import '//fonts.googleapis.com/css?family=Bowlby+One';
+@import '//fonts.googleapis.com/css?family=Cagliostro';
+@import '//fonts.googleapis.com/css?family=Open+Sans';
+@import '//fonts.googleapis.com/css?family=Orbitron';
+@import '//fonts.googleapis.com/css?family=Oswald';
+@import '//fonts.googleapis.com/css?family=Philosopher';
+@import '//fonts.googleapis.com/css?family=Quattrocento+Sans';
+@import '//fonts.googleapis.com/css?family=Quicksand';
+@import '//fonts.googleapis.com/css?family=Satisfy';
+@import '//fonts.googleapis.com/css?family=Syncopate';
+@import '//fonts.googleapis.com/css?family=Ubuntu+Mono';
+@import '//fonts.googleapis.com/css?family=Voltaire';
 
 
 .aclonica {

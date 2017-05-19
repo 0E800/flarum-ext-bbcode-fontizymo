@@ -1,4 +1,4 @@
-BBCode Google Fonts Pack Extension
+BBCode Web Fonts Pack Extension
 
 Add custom fonts to your posts. 
 
@@ -11,19 +11,33 @@ Install:
 Usage:
 
 `[aclonica]Testing Aclonica Font[/aclonica]`
+
 `[aldrich]Testing Aldrich Font[/aldrich]`
+
 `[anonymouspro]Testing Anonymous Pro Font[/anonymouspro]`
+
 `[bowlbyone]Testing Bowlby One Font[/bowlbyone]`
+
 `[cagliostro]Testing Cagliostro Font[/cagliostro]`
+
 `[opensans]Testing Open Sans Font[/opensans]`
+
 `[orbitron]Testing Orbitron Font[/orbitron]`
+
 `[oswald]Testing Oswald Font[/oswald]`
+
 `[philosopher]Testing Philosopher Font[/philosopher]`
+
 `[quattrocentosans]Testing Quattrocento Sans Font[/quattrocentosans]`
+
 `[quicksand]Testing Quicksand Font[/quicksand]`
+
 `[satisfy]Testing Satisfy Font[/satisfy]`
+
 `[syncopate]Testing Syncopate Font[/syncopate]`
+
 `[ubuntumono]Testing Ubuntu Mono Font[/ubuntumono]`
+
 `[voltaire]Testing Voltaire Font[/voltaire]`
 
 

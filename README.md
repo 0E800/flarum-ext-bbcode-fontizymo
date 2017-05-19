@@ -90,7 +90,7 @@ Examples:
 
 ![Imgur](http://i.imgur.com/soC2Dqh.png)
 
-Version 0.1.4 addition examples:
+
 ![Imgur](http://i.imgur.com/hc101Hc.png)
 
 
